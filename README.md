@@ -34,7 +34,7 @@ Node.js and NPM
 
 Installation
 1. Clone the repository:
-git clone 
+git clone https://github.com/Rokaya2100/MyShopRo-laravel
 
 
 2. Install dependencies:
@@ -78,7 +78,7 @@ routes: Contains routing files for the web (web.php) and API (api.php) routes.
 
 API Endpoints:
 The API is secured with Sanctum, allowing for authenticated user access. API endpoints can be found in routes/api.php.
-
+https://api.postman.com/collections/39295110-5e296774-e6d9-4cfa-8b37-91e258c47ead?access_key=PMAT-01JBA71PZCEE8RRHHVKXRPM0BE
 
 
 Authentication:
